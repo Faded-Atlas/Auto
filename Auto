@@ -1,0 +1,8 @@
+import os
+import time
+from sleep import time
+import sys
+
+if os.geteuid() != 0:
+    exit("Error: Insufficient permissions. Try running as root.")
+
