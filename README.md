@@ -1,2 +1,3 @@
 # Auto
-Git clones Updater.py and runs it
+Clonees Linux-Updater and runs it
+*This is solely for my benefit as I am still learning python.
