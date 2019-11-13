@@ -10,7 +10,7 @@ a = input("This will clone Linux-Updater to your machine and run it. Are you sur
 if "yes" "y" in a:
     while true:
         print("Lets get started")
-        os.system("curl https://raw.githubusercontent.com/Faded-Atlas/Auto/master/Auto | python3")
+        os.system("curl https://https://raw.githubusercontent.com/Faded-Atlas/Linux-Updater/master/Updater.py | python3")
         sleep(2)
         os.system(cd ./Linux-Updater")
         sleep(2)
